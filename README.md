@@ -1,0 +1,2 @@
+# RCJ-Eindhoven2024-Document
+RoboCupJunior EIndhoven2024に向けて制作したポスターなどを入れておくリポジトリ
